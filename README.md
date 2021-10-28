@@ -1,6 +1,6 @@
 #Iteration 1
 
-<!-- pry(main)> require './lib/student'
+pry(main)> require './lib/student'
 # => true
 
 pry(main)> student = Student.new({name: "Morgan", age: 21})    
