@@ -1,6 +1,6 @@
 #Iteration 1
 
-pry(main)> require './lib/student'
+<!-- pry(main)> require './lib/student'
 # => true
 
 pry(main)> student = Student.new({name: "Morgan", age: 21})    
@@ -62,4 +62,4 @@ pry(main)> course.students
 # => [#<Student:0x00007fa0a80ae588...>, #<Student:0x00007fa0a814f4d8...>]
 
 pry(main)> course.full?
-# => true
+# => true -->
